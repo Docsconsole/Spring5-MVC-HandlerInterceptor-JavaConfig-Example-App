@@ -1,5 +1,0 @@
-com\docsconsole\tutorials\interceptor\UserRequestInterceptor.class
-com\docsconsole\tutorials\config\WebAppInitializer.class
-com\docsconsole\tutorials\config\WebMvcConfig.class
-com\docsconsole\tutorials\conntroller\HomeController.class
-com\docsconsole\tutorials\interceptor\AdminRequestInterceptor.class
